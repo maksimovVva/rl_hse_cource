@@ -1,2 +1,6 @@
-# rl_hse_cource
-Reinforcement Learning, HSE Course
+# Homework Laboratory works
+## Reinforcement Learning
+
+**Maslennikova Elizaveta**
+
+HSE students, 18 IAD
