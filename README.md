@@ -1,6 +1,5 @@
-# Homework Laboratory works
-## Reinforcement Learning
+## Homework on Reinforcement Learning
 
 **Maslennikova Elizaveta**
 
-HSE students, 18 IAD
+HSE student, 18 MAG IAD
